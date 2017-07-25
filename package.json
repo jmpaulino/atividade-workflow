@@ -1,0 +1,22 @@
+{
+  "name": "atv_workflow",
+  "version": "1.0.0",
+  "description": "atividade workflow",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "atividade",
+    "workflow",
+    "joao"
+  ],
+  "author": "Joao Mendes",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
